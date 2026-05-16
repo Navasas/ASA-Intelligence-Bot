@@ -1,3 +1,4 @@
+
 # ASA-Intelligence-Bot
 ARK Intelligence &amp; Live Radar Bot 🦖  Bring live server statistics, player counts, active multipliers, and historical join/leave events directly to Discord! Featuring a 30-second auto-updating Live Radar, interactive /setup, custom role pings, and dynamic channel renaming. No self-hosting required—get your invite on our server!
 
@@ -17,7 +18,7 @@ ARK Intelligence &amp; Live Radar Bot 🦖  Bring live server statistics, player
 # 🦖 ARK Intelligence & Live Radar Bot
 
 A powerful Discord bot for ARK: Survival Evolved & Ascended that brings live server statistics, player counts, configurations, and historical join/leave events directly into your Discord channels.
-
+<img width="1225" height="1033" alt="preview" src="https://github.com/user-attachments/assets/3a461e6f-97f1-4014-8d68-b55dad7db8fe" />
 ---
 
 ## 🚀 Invite the Bot
