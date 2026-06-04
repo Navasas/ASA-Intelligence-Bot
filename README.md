@@ -25,9 +25,9 @@ A powerful Discord bot for ARK: Survival Evolved & Ascended that brings live ser
 
 There is no need to self-host or configure any code! You can find the official invite link and get quick support directly on our Discord server:
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DQz9STxNzK)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9pk5ZaM7Yc)
 
-👉 **[Click here to join our Discord server and add the bot!](https://discord.gg/DQz9STxNzK)**
+👉 **[Click here to join our Discord server and add the bot!](https://discord.gg/9pk5ZaM7Yc)**
 
 ---
 
